@@ -113,12 +113,6 @@ chrome.exe --allow-file-access-from-files --user-data-dir="D:\GethTest\CharmData
 
 ***
 
-*联系方式：*    
-
-*博客：[X-Mallory.github.io](https://x-mallory.github.io/)*    
-
-*邮箱：Guoyusu@outlook.com*
-
 
 
 
